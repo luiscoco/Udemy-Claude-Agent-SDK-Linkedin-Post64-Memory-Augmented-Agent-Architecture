@@ -1,0 +1,16 @@
+{
+  "owner": "alex",
+  "request": "Suggest a day-trip style.",
+  "memories": [
+    {
+      "owner": "alex",
+      "tag": "travel",
+      "text": "Prefers trains and quiet museums."
+    },
+    {
+      "owner": "sam",
+      "tag": "travel",
+      "text": "Prefers long drives."
+    }
+  ]
+}

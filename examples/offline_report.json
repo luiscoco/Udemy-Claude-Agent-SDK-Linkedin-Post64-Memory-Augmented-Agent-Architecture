@@ -1,0 +1,14 @@
+{
+  "lesson": 63,
+  "application": "Travel Preference Retrieval",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "retrieved_memory": [
+      "Prefers trains and quiet museums."
+    ],
+    "answer": "Consider a train-based day trip with a quiet museum visit; verify schedules separately.",
+    "owner": "alex"
+  },
+  "measured_cost_usd": null
+}

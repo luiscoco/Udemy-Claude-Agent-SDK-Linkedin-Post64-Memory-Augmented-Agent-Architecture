@@ -1,0 +1,16 @@
+{
+  "lesson": 63,
+  "title": "Memory-Augmented Agent Architecture",
+  "application": "Travel Preference Retrieval",
+  "purpose": "Retrieve only owner-scoped travel preferences, expose them through a real memory tool and keep memory separate from session history.",
+  "exercise": "Change owner to sam and verify that Alex’s preferences are never returned by the retrieval handler.",
+  "source_topics": [
+    "00-Arquitectura de Agentes con Memoria.png",
+    "01-Three-Layers-of-Agent-Memory.png",
+    "02-Short-Term-Memory-in-a-Session.png",
+    "03-Long-Term-Memory-as-Tools.png",
+    "04-Retrieve-Only-What-Matters.png",
+    "05-Write-Update-and-Forget.png",
+    "06-Example-A-Travel-Assistant-That-Remembers.png"
+  ]
+}
